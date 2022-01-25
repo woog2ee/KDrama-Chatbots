@@ -12,7 +12,7 @@ Check out Presentation at [Link](https://github.com/woog2ee/KDrama-Chatbots/blob
 - **Doyeon Lim**: School of Computer Science & Engineering in CAU
 
 ## 💡 Prototype
-More Details at [Link](https://github.com/woog2ee/KDrama-Chatbots/tree/main/models/KoGPT2)
+More Details at [Link](https://github.com/woog2ee/KDrama-Chatbots/tree/main/models/KoGPT2)   
 ![skycastle](https://user-images.githubusercontent.com/80081987/150994505-96a96c56-6753-4d19-8c2e-49e5134c7d20.png)
 
 ## 🚂 Pipeline
