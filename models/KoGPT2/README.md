@@ -4,10 +4,10 @@ CUAI 4th Winter Conference Project
 ## Summary
 pre-trained된 KoGPT2를 이용해서 드라마 대사 데이터를 이용해서 Fine-Tuning한 챗봇 실험
 ## Preview
-* 스카이 캐슬
+* 스카이 캐슬  
 ![스카이 캐슬](./imgs/skycastle.png)
 
-* 이태원 클라스
+* 이태원 클라스  
 ![이태원 클라스](./imgs/itaewon.png)
 
 
