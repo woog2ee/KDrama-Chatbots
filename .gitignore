@@ -1,0 +1,6 @@
+#models/KoGPT2 ignore
+models/KoGPT2/lightning_logs
+models/KoGPT2/KDrama/after_preprocessing
+models/KoGPT2/KDrama/raw
+models/KoGPT2/model_chp_*
+models/KoGPT2/*.ipynb
